@@ -12,5 +12,5 @@
 #### Compile:
     gcc process_multiplication.c -o process_multiplication
 #### Run
-    ./process_multiplication.c matrix_a.txt matrix_b.txt output_ab.txt
+    ./process_multiplication matrix_a.txt matrix_b.txt output_ab.txt
 
